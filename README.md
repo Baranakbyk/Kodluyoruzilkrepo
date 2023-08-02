@@ -1,7 +1,7 @@
 # Kodluyoruzilkrepo
 Kodluyoruz Front-End eğitimi kapsamında açtığım ilk repo
 
-![Ekran görüntüsü 2023-08-02 185618](C:\Users\baske\Pictures\SS\Ekran görüntüsü 2023-08-02 185618.png)
+
 
 ## Installation
 Öncelikle projeyi clonelayın.

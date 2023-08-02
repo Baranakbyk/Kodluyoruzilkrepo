@@ -1,6 +1,8 @@
 # Kodluyoruzilkrepo
 Kodluyoruz Front-End eğitimi kapsamında açtığım ilk repo
 
+![Ekran görüntüsü 2023-08-02 185618](C:\Users\baske\Pictures\SS\Ekran görüntüsü 2023-08-02 185618.png)
+
 ## Installation
 Öncelikle projeyi clonelayın.
 
@@ -9,7 +11,7 @@ git clone https://github.com/baranakbyk/kodluyoruzilkrepo.git
 ```
 
 ## Usage
-Projeyi cloneladıkyan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 
 Linux için:
